@@ -1,5 +1,8 @@
 # Gacha API Service
 
+**nama** andrian hartono
+**nim** 535250057
+
 API ini dibuat untuk memenuhi kuis back end
 
 ## Daftar Endpoint:
